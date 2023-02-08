@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/NewOmni/static/js/main.42817177.js",
+    "static/media/app-iPhone.png": "/NewOmni/static/media/app-iPhone.496b35387168c51a923b.png",
+    "static/media/berlin.jpg": "/NewOmni/static/media/berlin.e3c6d08188e917f0d5ea.jpg",
+    "static/media/8.jpg": "/NewOmni/static/media/8.3e3af448bcc91546ff0f.jpg",
+    "static/media/1.jpg": "/NewOmni/static/media/1.b220fbc3d01089f64029.jpg",
+    "static/media/2.jpg": "/NewOmni/static/media/2.4eee7ad43cdbf3318dc3.jpg",
+    "static/media/lisbon-3.jpg": "/NewOmni/static/media/lisbon-3.cb02b54db1536b176729.jpg",
+    "static/media/7.jpg": "/NewOmni/static/media/7.287e3a80e55276f954dd.jpg",
+    "static/media/london.jpg": "/NewOmni/static/media/london.e596be4f43e0a3c2d0f6.jpg",
+    "static/media/6.jpg": "/NewOmni/static/media/6.f1b75c8e23065b5ac72f.jpg",
+    "static/media/5.jpg": "/NewOmni/static/media/5.a178811510cf9bf583f9.jpg",
+    "static/media/3.jpg": "/NewOmni/static/media/3.fdf127e0fe470f8b7ed2.jpg",
+    "static/media/san-francisco.jpg": "/NewOmni/static/media/san-francisco.28751ab32a178740f184.jpg",
+    "static/media/4.jpg": "/NewOmni/static/media/4.6ba52385523bc21f59ee.jpg",
+    "static/media/logo.png": "/NewOmni/static/media/logo.ecebb70722e1846492ab.png",
+    "static/media/logo-white.png": "/NewOmni/static/media/logo-white.fb5231143f1922fb1709.png",
+    "static/media/app-store-img.jpg": "/NewOmni/static/media/app-store-img.f593f9c0d6f2ad0e2009.jpg",
+    "static/media/customer-2.jpg": "/NewOmni/static/media/customer-2.0b0c883a0cf0122b085c.jpg",
+    "static/media/customer-1.jpg": "/NewOmni/static/media/customer-1.5d0d9b325d384ce27e72.jpg",
+    "index.html": "/NewOmni/index.html",
+    "main.42817177.js.map": "/NewOmni/static/js/main.42817177.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.42817177.js"
+  ]
+}
